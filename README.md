@@ -43,7 +43,7 @@ Overall, the design and analysis of algorithms is a vital field of study because
 
 9. **Backtracking**: Backtracking and its applications, the n-queens problem, and the traveling salesman problem.
 
-10. Complexity Classes: Complexity classes, P, NP, and NP-completeness.
+10. **Complexity Classes**: Complexity classes, P, NP, and NP-completeness.
 
 11. Approximation Algorithms: Approximation algorithms, the vertex cover problem, and the set cover problem.
 
