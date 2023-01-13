@@ -15,7 +15,7 @@ Design and analysis of algorithms is an important field of study because it help
 
 3. **Complexity analysis**: Analysis of algorithms enables to understand the time and space complexity of an algorithm, and how it scales with the size of the input. This helps to identify the most efficient algorithm for a given problem.
 
-4. Resource allocation: Understanding the performance and efficiency of algorithms can be used to make decisions about how to allocate resources, such as memory and CPU time.
+4. **Resource allocation**: Understanding the performance and efficiency of algorithms can be used to make decisions about how to allocate resources, such as memory and CPU time.
 
 5. Algorithm selection: Algorithm design and analysis can be used to compare different algorithms for a given problem and select the best one for the task at hand.
 
