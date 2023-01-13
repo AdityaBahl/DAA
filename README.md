@@ -27,7 +27,7 @@ Overall, the design and analysis of algorithms is a vital field of study because
 
 1. **Introduction to Algorithms**: Overview of algorithms, computational complexity, big O notation, and time and space complexity analysis.
 
-2. Recursion: Recursive algorithms and their analysis, tail recursion and iterative algorithms.
+2. **Recursion**: Recursive algorithms and their analysis, tail recursion and iterative algorithms.
 
 3. Sorting and Searching: Sorting algorithms such as insertion sort, bubble sort, merge sort, quick sort and searching algorithms such as linear search, binary search, and hashing.
 
