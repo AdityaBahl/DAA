@@ -63,7 +63,7 @@ Design and analysis of algorithms (DAA) is a field of study that has its own set
 
 4. Approximation Algorithms: Approximation algorithms are often used to find near-optimal solutions to NP-hard problems, but they may not always produce accurate results.
 
-Scalability: DAA deals with the performance of algorithms as the input size increases, but it can be challenging to predict how well an algorithm will scale in practice.
+5. Scalability: DAA deals with the performance of algorithms as the input size increases, but it can be challenging to predict how well an algorithm will scale in practice.
 
 Real-world constraints: DAA assumes that the input size is unlimited and the computation is unbounded, which is not the case in the real-world. Real-world constraints such as memory, time, and power need to be taken into account.
 
