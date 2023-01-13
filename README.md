@@ -33,7 +33,7 @@ Overall, the design and analysis of algorithms is a vital field of study because
 
 4. **Basic Data Structures**: Arrays, linked lists, stacks, queues, and trees.
 
-5. Advanced Data Structures: Graphs, heaps, hash tables, and balanced trees.
+5. **Advanced Data Structures**: Graphs, heaps, hash tables, and balanced trees.
 
 6. Divide and Conquer: Divide and conquer algorithms, merge sort, quick sort, and binary search.
 
