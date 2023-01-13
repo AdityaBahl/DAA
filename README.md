@@ -61,11 +61,11 @@ Design and analysis of algorithms (DAA) is a field of study that has its own set
 
 3. **NP-hard problems**: Many real-world problems are NP-hard, which means that there is no known polynomial-time algorithm that can solve them. Therefore, finding optimal solutions to these problems can be very challenging.
 
-4. Approximation Algorithms: Approximation algorithms are often used to find near-optimal solutions to NP-hard problems, but they may not always produce accurate results.
+4. **Approximation Algorithms**: Approximation algorithms are often used to find near-optimal solutions to NP-hard problems, but they may not always produce accurate results.
 
-5. Scalability: DAA deals with the performance of algorithms as the input size increases, but it can be challenging to predict how well an algorithm will scale in practice.
+5. **Scalability**: DAA deals with the performance of algorithms as the input size increases, but it can be challenging to predict how well an algorithm will scale in practice.
 
-6. Real-world constraints: DAA assumes that the input size is unlimited and the computation is unbounded, which is not the case in the real-world. Real-world constraints such as memory, time, and power need to be taken into account.
+6. **Real-world constraints**: DAA assumes that the input size is unlimited and the computation is unbounded, which is not the case in the real-world. Real-world constraints such as memory, time, and power need to be taken into account.
 
 Overall, DAA is a challenging field that requires a deep understanding of mathematical concepts and techniques. It can be difficult to model real-world problems and find optimal solutions, especially for NP-hard problems. However, despite these challenges, DAA is an important field that provides the tools and techniques for understanding the performance and efficiency of algorithms, which can be used to optimize code, solve problems, and make informed decisions about resource allocation.
 
