@@ -47,7 +47,7 @@ Overall, the design and analysis of algorithms is a vital field of study because
 
 11. **Approximation Algorithms**: Approximation algorithms, the vertex cover problem, and the set cover problem.
 
-12. Case Studies: Case studies of algorithms and their analysis in various fields such as bioinformatics, cryptography, and machine learning.
+12. **Case Studies**: Case studies of algorithms and their analysis in various fields such as bioinformatics, cryptography, and machine learning.
 
 This is an indicative syllabus for DAA, course structure and topics covered may vary from institution to institution.
 
