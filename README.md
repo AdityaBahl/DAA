@@ -17,7 +17,7 @@ Design and analysis of algorithms is an important field of study because it help
 
 4. **Resource allocation**: Understanding the performance and efficiency of algorithms can be used to make decisions about how to allocate resources, such as memory and CPU time.
 
-5. Algorithm selection: Algorithm design and analysis can be used to compare different algorithms for a given problem and select the best one for the task at hand.
+5. **Algorithm selection**: Algorithm design and analysis can be used to compare different algorithms for a given problem and select the best one for the task at hand.
 
 6. Advancement of Science: The study of algorithms is also important for the advancement of science and technology in fields such as artificial intelligence, machine learning, bioinformatics, and cryptography.
 
