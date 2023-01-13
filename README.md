@@ -25,7 +25,7 @@ Overall, the design and analysis of algorithms is a vital field of study because
 
 ## Syllabus
 
-1. Introduction to Algorithms: Overview of algorithms, computational complexity, big O notation, and time and space complexity analysis.
+1. **Introduction to Algorithms**: Overview of algorithms, computational complexity, big O notation, and time and space complexity analysis.
 
 2. Recursion: Recursive algorithms and their analysis, tail recursion and iterative algorithms.
 
