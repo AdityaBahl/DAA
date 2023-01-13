@@ -41,7 +41,7 @@ Overall, the design and analysis of algorithms is a vital field of study because
 
 8. **Greedy Algorithms**: Greedy algorithms, Huffman coding, and the greedy algorithm for the knapsack problem.
 
-9. Backtracking: Backtracking and its applications, the n-queens problem, and the traveling salesman problem.
+9. **Backtracking**: Backtracking and its applications, the n-queens problem, and the traveling salesman problem.
 
 10. Complexity Classes: Complexity classes, P, NP, and NP-completeness.
 
