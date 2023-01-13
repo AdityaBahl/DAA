@@ -65,7 +65,7 @@ Design and analysis of algorithms (DAA) is a field of study that has its own set
 
 5. Scalability: DAA deals with the performance of algorithms as the input size increases, but it can be challenging to predict how well an algorithm will scale in practice.
 
-Real-world constraints: DAA assumes that the input size is unlimited and the computation is unbounded, which is not the case in the real-world. Real-world constraints such as memory, time, and power need to be taken into account.
+6. Real-world constraints: DAA assumes that the input size is unlimited and the computation is unbounded, which is not the case in the real-world. Real-world constraints such as memory, time, and power need to be taken into account.
 
 Overall, DAA is a challenging field that requires a deep understanding of mathematical concepts and techniques. It can be difficult to model real-world problems and find optimal solutions, especially for NP-hard problems. However, despite these challenges, DAA is an important field that provides the tools and techniques for understanding the performance and efficiency of algorithms, which can be used to optimize code, solve problems, and make informed decisions about resource allocation.
 
