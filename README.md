@@ -7,7 +7,21 @@
 
 ## Why DAA?
 
-**Wordle** is a web-based game that uses APIs (Application Programming Interfaces) and Node.js to provide users with a fun and interactive experience. APIs allow Wordle to access and retrieve data from external sources, such as a dictionary or thesaurus, and use that data to generate the words and challenges that players must solve. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, is used to execute the game's code and handle its server-side logic. By using APIs and Node.js, Wordle is able to provide a seamless and dynamic gaming experience for players.
+Design and analysis of algorithms is an important field of study because it helps to understand the performance and efficiency of algorithms. Some of the reasons why design and analysis of algorithms is important include:
+
+Optimization: Understanding the performance and efficiency of algorithms allows for the optimization of code, which can result in faster execution times and improved performance.
+
+Problem-solving: Design and analysis of algorithms provides a framework for solving problems, which can be applied to a wide range of different fields, including computer science, engineering, and mathematics.
+
+Complexity analysis: Analysis of algorithms enables to understand the time and space complexity of an algorithm, and how it scales with the size of the input. This helps to identify the most efficient algorithm for a given problem.
+
+Resource allocation: Understanding the performance and efficiency of algorithms can be used to make decisions about how to allocate resources, such as memory and CPU time.
+
+Algorithm selection: Algorithm design and analysis can be used to compare different algorithms for a given problem and select the best one for the task at hand.
+
+Advancement of Science: The study of algorithms is also important for the advancement of science and technology in fields such as artificial intelligence, machine learning, bioinformatics, and cryptography.
+
+Overall, the design and analysis of algorithms is a vital field of study because it provides the tools and techniques for understanding the performance and efficiency of algorithms, which can be used to optimize code, solve problems, and make informed decisions about resource allocation.
 
 ## Algorithm
 
