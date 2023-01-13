@@ -71,7 +71,7 @@ Overall, DAA is a challenging field that requires a deep understanding of mathem
 
 ## Conclusion
 
-In conclusion, building a Wordle-like game using APIs and Node.js can be a challenging but rewarding project. By using APIs, the game can access and retrieve data from external sources, providing a rich and dynamic gaming experience for players. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, can be used to execute the game's code and handle its server-side logic. Some potential challenges that may arise include integrating with external APIs, managing the game state, ensuring good performance, testing and debugging, and maintaining security. By carefully designing and implementing the game, it is possible to create a fun and engaging Wordle-like game that players will enjoy.
+In conclusion, Design and Analysis of Algorithms (DAA) is a field of study that provides the tools and techniques for understanding the performance and efficiency of algorithms. It is an important field for computer science and other related fields, as it allows for the optimization of code, the solving of problems, and the making of informed decisions about resource allocation. However, DAA is also a complex field that requires a deep understanding of mathematical concepts and techniques, and it can be challenging to model real-world problems and find optimal solutions, especially for NP-hard problems. Despite these challenges, the study of DAA is essential for the advancement of computer science and other related fields, and it will continue to be a valuable tool for researchers and practitioners for years to come.
 
 ### MIT Licence
 
