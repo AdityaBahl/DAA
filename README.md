@@ -31,7 +31,7 @@ Overall, the design and analysis of algorithms is a vital field of study because
 
 3. **Sorting and Searching**: Sorting algorithms such as insertion sort, bubble sort, merge sort, quick sort and searching algorithms such as linear search, binary search, and hashing.
 
-4. Basic Data Structures: Arrays, linked lists, stacks, queues, and trees.
+4. **Basic Data Structures**: Arrays, linked lists, stacks, queues, and trees.
 
 5. Advanced Data Structures: Graphs, heaps, hash tables, and balanced trees.
 
