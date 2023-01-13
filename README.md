@@ -55,11 +55,11 @@ This is an indicative syllabus for DAA, course structure and topics covered may 
 
 Design and analysis of algorithms (DAA) is a field of study that has its own set of challenges and limitations. Some of the main challenges and limitations of DAA include:
 
-1. Complexity: DAA can be a complex field, requiring a deep understanding of mathematical concepts and techniques. It can be challenging for new students to fully grasp all of the concepts and techniques involved.
+1. **Complexity**: DAA can be a complex field, requiring a deep understanding of mathematical concepts and techniques. It can be challenging for new students to fully grasp all of the concepts and techniques involved.
 
-2. Modeling: DAA often involves modeling real-world problems as mathematical problems, which can be challenging. It's hard to find the best model for the problem and the real-world problem may not be well-defined.
+2. **Modeling**: DAA often involves modeling real-world problems as mathematical problems, which can be challenging. It's hard to find the best model for the problem and the real-world problem may not be well-defined.
 
-3. NP-hard problems: Many real-world problems are NP-hard, which means that there is no known polynomial-time algorithm that can solve them. Therefore, finding optimal solutions to these problems can be very challenging.
+3. **NP-hard problem**s: Many real-world problems are NP-hard, which means that there is no known polynomial-time algorithm that can solve them. Therefore, finding optimal solutions to these problems can be very challenging.
 
 4. Approximation Algorithms: Approximation algorithms are often used to find near-optimal solutions to NP-hard problems, but they may not always produce accurate results.
 
