@@ -61,7 +61,7 @@ Design and analysis of algorithms (DAA) is a field of study that has its own set
 
 3. NP-hard problems: Many real-world problems are NP-hard, which means that there is no known polynomial-time algorithm that can solve them. Therefore, finding optimal solutions to these problems can be very challenging.
 
-Approximation Algorithms: Approximation algorithms are often used to find near-optimal solutions to NP-hard problems, but they may not always produce accurate results.
+4. Approximation Algorithms: Approximation algorithms are often used to find near-optimal solutions to NP-hard problems, but they may not always produce accurate results.
 
 Scalability: DAA deals with the performance of algorithms as the input size increases, but it can be challenging to predict how well an algorithm will scale in practice.
 
