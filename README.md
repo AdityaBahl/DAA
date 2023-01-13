@@ -23,15 +23,33 @@ Design and analysis of algorithms is an important field of study because it help
 
 Overall, the design and analysis of algorithms is a vital field of study because it provides the tools and techniques for understanding the performance and efficiency of algorithms, which can be used to optimize code, solve problems, and make informed decisions about resource allocation.
 
-## Algorithm
+## Syllabus
 
-1. The game generates a grid of letters and displays it to the player.
-2. The player selects a sequence of letters in the grid to form a word.
-3. The game sends a request to a dictionary API to check if the word is a valid English word.
-4. If the word is valid, the game updates the score and displays a new grid of letters to the player.
-5. If the word is not valid, the game informs the player and allows them to try again.
+1. Introduction to Algorithms: Overview of algorithms, computational complexity, big O notation, and time and space complexity analysis.
 
-This is just one possible approach to building a Wordle-like game. There are many other ways to design and implement such a game, and the specific algorithms and techniques used will depend on the desired features and functionality of the game.
+2. Recursion: Recursive algorithms and their analysis, tail recursion and iterative algorithms.
+
+3. Sorting and Searching: Sorting algorithms such as insertion sort, bubble sort, merge sort, quick sort and searching algorithms such as linear search, binary search, and hashing.
+
+4. Basic Data Structures: Arrays, linked lists, stacks, queues, and trees.
+
+5. Advanced Data Structures: Graphs, heaps, hash tables, and balanced trees.
+
+6. Divide and Conquer: Divide and conquer algorithms, merge sort, quick sort, and binary search.
+
+7. Dynamic Programming: Dynamic programming, the principle of optimality, and the knapsack problem.
+
+8. Greedy Algorithms: Greedy algorithms, Huffman coding, and the greedy algorithm for the knapsack problem.
+
+9. Backtracking: Backtracking and its applications, the n-queens problem, and the traveling salesman problem.
+
+10. Complexity Classes: Complexity classes, P, NP, and NP-completeness.
+
+11. Approximation Algorithms: Approximation algorithms, the vertex cover problem, and the set cover problem.
+
+12. Case Studies: Case studies of algorithms and their analysis in various fields such as bioinformatics, cryptography, and machine learning.
+
+This is an indicative syllabus for DAA, course structure and topics covered may vary from institution to institution.
 
 ## Challenges and Limitations
 
