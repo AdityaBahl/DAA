@@ -9,7 +9,7 @@
 
 Design and analysis of algorithms is an important field of study because it helps to understand the performance and efficiency of algorithms. Some of the reasons why design and analysis of algorithms is important include:
 
-1. Optimization: Understanding the performance and efficiency of algorithms allows for the optimization of code, which can result in faster execution times and improved performance.
+1. **Optimization**: Understanding the performance and efficiency of algorithms allows for the optimization of code, which can result in faster execution times and improved performance.
 
 2. Problem-solving: Design and analysis of algorithms provides a framework for solving problems, which can be applied to a wide range of different fields, including computer science, engineering, and mathematics.
 
