@@ -37,9 +37,9 @@ Overall, the design and analysis of algorithms is a vital field of study because
 
 6. **Divide and Conquer**: Divide and conquer algorithms, merge sort, quick sort, and binary search.
 
-7. Dynamic Programming: Dynamic programming, the principle of optimality, and the knapsack problem.
+7. **Dynamic Programming**: Dynamic programming, the principle of optimality, and the knapsack problem.
 
-8. Greedy Algorithms: Greedy algorithms, Huffman coding, and the greedy algorithm for the knapsack problem.
+8. **Greedy Algorithms**: Greedy algorithms, Huffman coding, and the greedy algorithm for the knapsack problem.
 
 9. Backtracking: Backtracking and its applications, the n-queens problem, and the traveling salesman problem.
 
