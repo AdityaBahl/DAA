@@ -45,7 +45,7 @@ Overall, the design and analysis of algorithms is a vital field of study because
 
 10. **Complexity Classes**: Complexity classes, P, NP, and NP-completeness.
 
-11. Approximation Algorithms: Approximation algorithms, the vertex cover problem, and the set cover problem.
+11. **Approximation Algorithms**: Approximation algorithms, the vertex cover problem, and the set cover problem.
 
 12. Case Studies: Case studies of algorithms and their analysis in various fields such as bioinformatics, cryptography, and machine learning.
 
