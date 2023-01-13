@@ -29,7 +29,7 @@ Overall, the design and analysis of algorithms is a vital field of study because
 
 2. **Recursion**: Recursive algorithms and their analysis, tail recursion and iterative algorithms.
 
-3. Sorting and Searching: Sorting algorithms such as insertion sort, bubble sort, merge sort, quick sort and searching algorithms such as linear search, binary search, and hashing.
+3. **Sorting and Searching**: Sorting algorithms such as insertion sort, bubble sort, merge sort, quick sort and searching algorithms such as linear search, binary search, and hashing.
 
 4. Basic Data Structures: Arrays, linked lists, stacks, queues, and trees.
 
