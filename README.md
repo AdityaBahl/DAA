@@ -59,7 +59,7 @@ Design and analysis of algorithms (DAA) is a field of study that has its own set
 
 2. Modeling: DAA often involves modeling real-world problems as mathematical problems, which can be challenging. It's hard to find the best model for the problem and the real-world problem may not be well-defined.
 
-NP-hard problems: Many real-world problems are NP-hard, which means that there is no known polynomial-time algorithm that can solve them. Therefore, finding optimal solutions to these problems can be very challenging.
+3. NP-hard problems: Many real-world problems are NP-hard, which means that there is no known polynomial-time algorithm that can solve them. Therefore, finding optimal solutions to these problems can be very challenging.
 
 Approximation Algorithms: Approximation algorithms are often used to find near-optimal solutions to NP-hard problems, but they may not always produce accurate results.
 
